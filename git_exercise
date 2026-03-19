@@ -2,3 +2,4 @@ $ mkdir Desktop/git_exercise/
 $ cd Desktop/git_exercise/
 $ git init
 $git add hello.txt
+$ git commit -m "Initial commit."
